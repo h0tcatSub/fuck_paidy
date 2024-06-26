@@ -1,4 +1,4 @@
 # fuck_paidy
-Paidyのバグ証明
+Paidyの与信枠バグ証明
 
 Paidy二度と使わん
